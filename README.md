@@ -1,6 +1,6 @@
 # Notes From Nature
 
-Codes for extratcing information on daily transcripts done and building a csv file.
+Codes for extracting information on daily transcripts done and building a csv file.
 
 Python file: creates csv to write info
 
